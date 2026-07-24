@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai智能Caption与标题写作专家"
+  short_description: "生成马来西亚本地化Caption、标题、CTA与平台版本"
+  default_prompt: "使用 $ai-caption-title-writer 将我的产品或服务资料改写成马来西亚本地化 Caption、标题、CTA、Hashtag 与平台版本。"
