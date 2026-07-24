@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content to Editable Slides"
+  short_description: "Turn content into editable visual Google Slides"
+  default_prompt: "Use $content-to-editable-slides to turn my copy, files, or brand strategy into an editable 16:9 Google Slides deck."
