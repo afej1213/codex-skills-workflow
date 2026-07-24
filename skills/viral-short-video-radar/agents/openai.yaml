@@ -1,0 +1,7 @@
+interface:
+  display_name: "Viral Short Video Radar"
+  short_description: "Daily viral short-video ideas for Malaysia creators"
+  brand_color: "#0EA5E9"
+  default_prompt: "Use $viral-short-video-radar to find today's 4 viral short-video inspirations for my Malaysia creative design accounts."
+policy:
+  allow_implicit_invocation: true
